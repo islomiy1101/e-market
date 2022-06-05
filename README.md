@@ -1,1 +1,1 @@
-E-market Loyihasini bajarilish ketma-ketligi
+# E-market Loyihasini bajarilish ketma-ketligi
